@@ -60,6 +60,7 @@ Getting Started With CadQuery
 Installation instructions for all following use cases can be found `here <http://dcowden.github.io/cadquery/installation.html>`_.
 
 It is currently possible to use CadQuery for your own projects in 4 different ways:
+
 * as a plugin for FreeCAD
 * using the Docker Image to operate CadQuery as a CLI
 * as a plugin running on a Jupyter Notebook server
@@ -114,7 +115,9 @@ Build a local model using stdin/stdout:
 
     ... STEP output on the console
 
-Build local models and output to the same directory::
+Build local models and output to the same directory
+
+.. code-block:: bash
 
      docker run -v $PWD:/home/cq -i dcowden/cadquery:latest build --in_spec Ex001_Simple_Block.py --format STEP
      INFO: Reading from file 'Ex001_Simple_Block.py'
