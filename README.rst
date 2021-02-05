@@ -1,15 +1,8 @@
 .. image:: http://dcowden.github.io/cadquery/_static/cadquery_logo_dark.svg
 
 
-ANNOUNCEMENT!  CadQuery is Moving to https://github.com/CadQuery/cadquery!
+ANNOUNCEMENT!  CadQuery has moved to https://github.com/CadQuery/cadquery and this repo will be archived eventually.
 ============================================================
-
-Version 2.0 development is under way  It uses pythonOCC instead of FreeCAD, and has tons of cool features
-
-*BUT DONT WORRY!*  Version 1.x (this repository ) will be suported until all features are comfortably implemented in the 2.x stream.
-
-We're happy to be moving to a more open organization, but we're sad we're starting over with our stars. Please give us one at our new home!
-
 
 What is CadQuery?
 ========================================
@@ -35,6 +28,8 @@ What is CadQuery?
 .. |LICENSE| image:: https://img.shields.io/badge/license-Apache2-blue.svg
     :alt: License
     :target: https://github.com/dcowden/cadquery/blob/master/LICENSE
+
+***Please do not use this repository for new projects. Use the CadQuery 2.x repo mentioned above.***
 
 CadQuery is an intuitive, easy-to-use python based language for building parametric 3D CAD models.  CadQuery is for 3D CAD what jQuery is for javascript.  Imagine selecting Faces of a 3d object the same way you select DOM objects with JQuery!
 
