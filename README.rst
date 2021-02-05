@@ -2,7 +2,7 @@
 
 
 ANNOUNCEMENT!  CadQuery has moved to https://github.com/CadQuery/cadquery and this repo will be archived eventually.
-============================================================
+=========================================================================================================================
 
 What is CadQuery?
 ========================================
