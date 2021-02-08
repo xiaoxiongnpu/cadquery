@@ -1,7 +1,7 @@
-.. image:: http://dcowden.github.io/cadquery/_static/cadquery_logo_dark.svg
+.. image:: https://raw.githubusercontent.com/dcowden/cadquery/master/doc/_static/logo/cadquery_logo_dark.svg
 
 
-ANNOUNCEMENT!  CadQuery has moved to https://github.com/CadQuery/cadquery and this repo will be archived eventually.
+ANNOUNCEMENT!  CadQuery has moved to https://github.com/CadQuery/cadquery and this repo has been archived.
 =========================================================================================================================
 
 What is CadQuery?

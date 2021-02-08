@@ -1,6 +1,10 @@
 Changes
 =======
 
+v1.2.5
+------
+   * This is a deprecation release to clean things up so that the repository can be archived
+
 
 v1.2.0
 ------
