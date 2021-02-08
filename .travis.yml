@@ -52,6 +52,6 @@ branches:
 deploy:
   provider: pypi
   user: "__token__"
-  password: pypi-AgEIcHlwaS5vcmcCJGYzMzU2MGRkLTYxMzUtNDI3MS1iZmM5LTViODgzMmJmODFkNwACOXsicGVybWlzc2lvbnMiOiB7InByb2plY3RzIjogWyJjYWRxdWVyeSJdfSwgInZlcnNpb24iOiAxfQAABiAzceF5EivSLk4fAduzAOTGQMjxCVdwGy6sIZIu1U8uWw
+  password: "pypi-AgEIcHlwaS5vcmcCJGYzMzU2MGRkLTYxMzUtNDI3MS1iZmM5LTViODgzMmJmODFkNwACOXsicGVybWlzc2lvbnMiOiB7InByb2plY3RzIjogWyJjYWRxdWVyeSJdfSwgInZlcnNpb24iOiAxfQAABiAzceF5EivSLk4fAduzAOTGQMjxCVdwGy6sIZIu1U8uWw"
   on:
     branch: master
