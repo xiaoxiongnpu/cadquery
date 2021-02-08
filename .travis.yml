@@ -51,7 +51,8 @@ branches:
 
 deploy:
   provider: pypi
-  user: "__token__"
-  password: "pypi-AgEIcHlwaS5vcmcCJGYzMzU2MGRkLTYxMzUtNDI3MS1iZmM5LTViODgzMmJmODFkNwACOXsicGVybWlzc2lvbnMiOiB7InByb2plY3RzIjogWyJjYWRxdWVyeSJdfSwgInZlcnNpb24iOiAxfQAABiAzceF5EivSLk4fAduzAOTGQMjxCVdwGy6sIZIu1U8uWw"
+  user: "dcowden"
+   password:
+    secure: aP02wBbry1j3hYG/w++siF1lk26teuRQlPAx1c+ec8fxUw+bECa2HbPQHcIvSXB5N6nc6P3L9LjHt9ktm+Dn6FLJu3qWYNGAZx9PTn24ug0iAmB+JyNrsET3nK6WUKR1XpBqvjKgdpukd1Hknh2FSzYoyUvFWH9/CovITCFN3jo=
   on:
     branch: master
